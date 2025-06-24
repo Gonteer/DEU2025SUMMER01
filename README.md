@@ -5,8 +5,8 @@
 
 :open_book: 강의 자료
 - Python 기초 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/Eer5j7Bdo5hFu2qtpmgRf1cBGwln-hfOJ-CMY9OnI_Dyxg?e=aPY4Cs
-- Numpy : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EUP2Ac5Neg5Juaey4zkSHOIBC6ywlPYkfe0wsMm2E5kVyQ?e=JUX9fU
-- Matplotlib : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EZHksYt-cPtKseZSE43yVyUBt3bEaoVzFznC724hTaA0BQ?e=ZB35sM
+- Numpy : [https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EUP2Ac5Neg5Juaey4zkSHOIBC6ywlPYkfe0wsMm2E5kVyQ?e=JUX9fU](https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EUP2Ac5Neg5Juaey4zkSHOIBQhoVgspMrNE0BinCHAPVgA?e=0fMGyd)](https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EUP2Ac5Neg5Juaey4zkSHOIBQhoVgspMrNE0BinCHAPVgA?e=0fMGyd)
+- Matplotlib : [https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EZHksYt-cPtKseZSE43yVyUBt3bEaoVzFznC724hTaA0BQ?e=ZB35sM](https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/EZHksYt-cPtKseZSE43yVyUBLHo6rcsz5zDxIOENAfieZQ?e=eFSfep)
 
 :books: 자료 출처 
 - [도서] 따라하며 배우는 파이썬과 데이터 과학(개정판) / 생능출판사
