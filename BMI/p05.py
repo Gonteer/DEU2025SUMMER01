@@ -35,5 +35,5 @@ while True :
 
 print('월급\t차량가격\tBMI\t상태')
 for i in datas :
-    print(i[0],'\t',i[1]'\t',round(i[2],2),'\t',pandan(i[2]))
+    print(i[0],'\t',i[1],'\t',round(i[2],2),'\t',pandan(i[2]))
     
